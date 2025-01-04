@@ -1,0 +1,27 @@
+body {
+    /* background-color: #f8f9fa; */
+    /* background-image: url(./img/pexels-sebastiaan9977-1480690.jpg); */
+    /* height: 500px;
+    width: 500px; */
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #343a40;
+  }
+  
+  .buttons .btn {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+  }
+  
+  .results {
+    margin-top: 20px;
+    font-size: 1.1rem;
+  }
+  
+  .results span {
+    font-weight: bold;
+  }
+  
